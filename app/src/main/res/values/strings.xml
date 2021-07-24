@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="default_time">00:00:00</string>
+    <string name="dialog_hour_title">HH</string>
+    <string name="dialog_minute_title">MM</string>
+    <string name="dialog_second_title">SS</string>
+</resources>
